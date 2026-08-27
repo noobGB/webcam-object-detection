@@ -1,0 +1,6 @@
+*.pt
+*.onnx
+*.task
+__pycache__/
+*.pyc
+snapshot_*.jpg

@@ -1,0 +1,6 @@
+# Do NOT also install plain opencv-python alongside opencv-contrib-python -
+# they share the same cv2 namespace and conflict (see project CLAUDE.md).
+ultralytics>=8.4.130
+mediapipe>=1.0.1
+opencv-contrib-python>=5.0.0
+torch>=2.13.0
